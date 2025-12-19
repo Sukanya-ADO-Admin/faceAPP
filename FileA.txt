@@ -1,0 +1,4 @@
+Hello this is file A
+adding a change to file a
+adding another change
+change to unstage file
